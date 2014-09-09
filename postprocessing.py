@@ -48,8 +48,13 @@ minProportionOfMostPopularVariantPerIndividual = 0.25
 outputFile = "data_filteredResults.csv"
 
 ########################################################################
-# !!! DO NOT MODIFY BELOW THIS LINE !!!!
+# CODE HERE : Please DO NOT MODIFY BELOW THIS LINE 
 ########################################################################
+
+# Do not modify below if you want the same criteria as those proposed in the article:
+# Large-scale genotyping by next generation sequencing: how to overcome the challenges to reliably genotype individuals?
+# Ferrandiz-Rovira M, Bigot T, Allainé D, Callait-Cardinal M-P, Radwan J, Cohas A.
+
 
 # Before anything, defining an output function to save the data
 # (intermediate)
